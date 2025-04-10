@@ -1,0 +1,4 @@
+[core]
+    remote = animeremote
+['remote "animeremote"']
+    url = gs://anime_dvc_bucket/
