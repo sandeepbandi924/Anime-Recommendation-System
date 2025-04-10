@@ -1,0 +1,56 @@
+2025-04-07 12:49:28,762 - INFO - Data Processing Intialized
+2025-04-07 12:49:29,545 - INFO - Data Loaded Successfully for Data Processing
+2025-04-07 12:49:29,691 - INFO - Filter Users Sucessfully
+2025-04-07 12:49:30,589 - INFO - Scaling Done Sucessfully
+2025-04-07 12:49:30,689 - INFO - Encoded Done for Users and Anime
+2025-04-07 12:49:31,233 - INFO - Data Splited Successfully
+2025-04-07 12:49:31,244 - INFO - user2user_encoded saved successfully in processed directory
+2025-04-07 12:49:31,254 - INFO - user2user_decoded saved successfully in processed directory
+2025-04-07 12:49:31,291 - INFO - anime2anime_encoded saved successfully in processed directory
+2025-04-07 12:49:31,326 - INFO - anime2anime_decoded saved successfully in processed directory
+2025-04-07 12:49:34,914 - INFO - All the Training and Testing data as well as rating df is saved Successfully
+2025-04-07 12:49:39,325 - INFO - DF and Synopsis DF saved Successfully
+2025-04-07 12:49:39,325 - INFO - Data Processing Pipeline Run Sucessfully..........Congrats
+2025-04-07 14:54:26,954 - INFO - Model Training initialized
+2025-04-07 14:55:01,995 - INFO - Model Training initialized
+2025-04-07 14:55:02,067 - ERROR - Error in S:\MLOPS_GCP_CICD\Anime_Recommendation_System\src\model_training.py , line 23 : Failed to load data 
+2025-04-07 14:58:22,609 - INFO - Model Training & COMET ML initialized..
+2025-04-07 14:58:22,644 - INFO - Data loaded sucesfully for Model Trainig
+2025-04-07 14:58:22,715 - INFO - Successfully read the yaml file
+2025-04-07 14:58:22,715 - INFO - Loaded configuration from config.yaml
+2025-04-07 14:58:22,842 - INFO - Model created sucessfully
+2025-04-07 14:58:23,126 - ERROR - CustomException.__init__() missing 1 required positional argument: 'error_detail'
+2025-04-07 14:59:41,617 - INFO - Model Training initialized
+2025-04-07 14:59:41,633 - ERROR - Error in S:\MLOPS_GCP_CICD\Anime_Recommendation_System\src\model_training.py , line 23 : Failed to load data 
+2025-04-07 15:00:27,786 - INFO - Model Training initialized
+2025-04-07 15:00:27,816 - ERROR - Error in S:\MLOPS_GCP_CICD\Anime_Recommendation_System\src\model_training.py , line 23 : Failed to load data 
+2025-04-07 15:00:59,731 - INFO - Model Training initialized
+2025-04-07 15:00:59,769 - INFO - Data loaded sucesfully for Model Trainig
+2025-04-07 15:00:59,811 - INFO - Successfully read the yaml file
+2025-04-07 15:00:59,811 - INFO - Loaded configuration from config.yaml
+2025-04-07 15:00:59,920 - INFO - Model created sucessfully
+2025-04-07 15:01:00,290 - ERROR - Error in S:\MLOPS_GCP_CICD\Anime_Recommendation_System\src\model_training.py , line 74 : Model Training failed......... 
+2025-04-07 15:02:50,483 - INFO - Model Training initialized
+2025-04-07 15:02:50,506 - INFO - Data loaded sucesfully for Model Trainig
+2025-04-07 15:02:50,535 - INFO - Successfully read the yaml file
+2025-04-07 15:02:50,535 - INFO - Loaded configuration from config.yaml
+2025-04-07 15:02:50,649 - INFO - Model created sucessfully
+2025-04-07 15:02:50,986 - ERROR - Error in S:\MLOPS_GCP_CICD\Anime_Recommendation_System\src\model_training.py , line 75 : Model Training failed......... 
+2025-04-07 15:10:37,474 - INFO - Model Training initialized
+2025-04-07 15:10:37,511 - INFO - Data loaded sucesfully for Model Trainig
+2025-04-07 15:10:37,532 - INFO - Successfully read the yaml file
+2025-04-07 15:10:37,532 - INFO - Loaded configuration from config.yaml
+2025-04-07 15:10:37,607 - INFO - Model created sucessfully
+2025-04-07 15:10:37,936 - ERROR - CustomException.__init__() missing 1 required positional argument: 'error_detail'
+2025-04-07 15:12:28,381 - INFO - Model Training initialized
+2025-04-07 15:12:28,405 - INFO - Data loaded sucesfully for Model Trainig
+2025-04-07 15:12:28,414 - INFO - Successfully read the yaml file
+2025-04-07 15:12:28,414 - INFO - Loaded configuration from config.yaml
+2025-04-07 15:12:28,506 - INFO - Model created sucessfully
+2025-04-07 15:12:28,885 - ERROR - CustomException.__init__() missing 1 required positional argument: 'error_detail'
+2025-04-07 15:13:48,265 - INFO - Model Training initialized
+2025-04-07 15:13:48,288 - INFO - Data loaded sucesfully for Model Trainig
+2025-04-07 15:13:48,311 - INFO - Successfully read the yaml file
+2025-04-07 15:13:48,311 - INFO - Loaded configuration from config.yaml
+2025-04-07 15:13:48,413 - INFO - Model created sucessfully
+2025-04-07 15:13:48,747 - ERROR - CustomException.__init__() missing 1 required positional argument: 'error_detail'
